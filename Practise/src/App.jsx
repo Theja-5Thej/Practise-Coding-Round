@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    Hello
+    Practicing Coding Questions
      <Pagination />
     </>
   )
